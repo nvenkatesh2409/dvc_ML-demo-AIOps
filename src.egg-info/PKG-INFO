@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/nvenkatesh2409/dvc_ML-demo-AIOps
+Author: c17hawke
+Author-email: naroju86@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# dvc_ML-demo-AIOps
+"# dvc_ML-demo-AIOps" 
+
+
