@@ -1,6 +1,7 @@
 README.md
 setup.py
 src/__init__.py
+src/stage02_split_data.py
 src/stage_01_load_save.py
 src.egg-info/PKG-INFO
 src.egg-info/SOURCES.txt
